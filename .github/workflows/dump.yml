@@ -6,7 +6,7 @@ on:
       - master
 
 env:
-  DUMP_URL: "" # Direct url to a recovery zip
+  DUMP_URL: "https://airtel.bigota.d.miui.com/V14.0.6.0.TLOMIXM/miui_XAGAGlobal_V14.0.6.0.TLOMIXM_75134d8178_13.0.zip" # Direct url to a recovery zip
 
 jobs:
   dump:
