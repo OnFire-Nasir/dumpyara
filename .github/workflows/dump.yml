@@ -6,7 +6,7 @@ on:
       - master
 
 env:
-  DUMP_URL: "https://gauss-componentotacostmanual-cn.allawnfs.com/remove-ce340a2cbed65be8373b0f64daf571db/component-ota/23/11/30/11fa3a16df754504a75fb0aae96be69f.zip" # Direct url to a recovery zip
+  DUMP_URL: "https://airtel.bigota.d.miui.com/V13.1.22.10.24.DEV/miui_ODIN_V13.1.22.10.24.DEV_af02ce2d99_12.0.zip" # Direct url to a recovery zip
 
 jobs:
   dump:
