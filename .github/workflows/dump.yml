@@ -6,7 +6,7 @@ on:
       - master
 
 env:
-  DUMP_URL: "https://www.mediafire.com/file/3pqupxv4qo8iw5i/CPH1727_11_A.30_181017_21e8c378.rar/file" # Direct url to a recovery zip
+  DUMP_URL: "https://bigota.d.miui.com/OS1.0.4.0.UMREUXM/miui_MARBLEEEAGlobal_OS1.0.4.0.UMREUXM_733c4626e6_14.0.zip" # Direct url to a recovery zip
 
 jobs:
   dump:
