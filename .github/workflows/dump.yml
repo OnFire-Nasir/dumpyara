@@ -6,7 +6,7 @@ on:
       - master
 
 env:
-  DUMP_URL: "https://airtel.bigota.d.miui.com/OS1.0.4.0.UMREUXM/miui_MARBLEEEAGlobal_OS1.0.4.0.UMREUXM_733c4626e6_14.0.zip" # Direct url to a recovery zip
+  DUMP_URL: "https://airtel.bigota.d.miui.com/V14.0.4.0.TCVMIXM/miui_EARTHGlobal_V14.0.4.0.TCVMIXM_a9aa86c158_13.0.zip" # Direct url to a recovery zip
 
 jobs:
   dump:
