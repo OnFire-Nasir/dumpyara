@@ -6,7 +6,7 @@ on:
       - master
 
 env:
-  DUMP_URL: "https://ks3orig.bigota.d.miui.com/V14.0.7.0.TLOMIXM/miui_XAGAGlobal_V14.0.7.0.TLOMIXM_f860dc3e84_13.0.zip" # Direct url to a recovery zip
+  DUMP_URL: "https://airtel.bigota.d.miui.com/OS1.0.5.0.UMWCNXM/miui_SKY_OS1.0.5.0.UMWCNXM_eeb6f6c209_14.0.zip" # Direct url to a recovery zip
 
 jobs:
   dump:
