@@ -6,7 +6,7 @@ on:
       - master
 
 env:
-  DUMP_URL: "http://update.dbankcdn.com/download/data/pub_13/HWHOTA_hota_900_9/70/v3/3OaWInmvSpiVs5o4eQR8zg/full/update_full_base.zip" # Direct url to a recovery zip
+  DUMP_URL: "https://cdn-ota.azureedge.net/V14.0.7.0.TKOMIXM/miui_LISAGlobal_V14.0.7.0.TKOMIXM_6775e21ee0_13.0.zip" # Direct url to a recovery zip
 
 jobs:
   dump:
