@@ -6,7 +6,7 @@ on:
       - master
 
 env:
-  DUMP_URL: "https://sourceforge.net/projects/fihsw-msm8937/files/D1C/FIHSW_D1C-5210-0-00WW-B03_600WW_8.0.0_20180101.full.lzma2.a2fdbbe2f9480671eb82aa116346c9c196899a2cfd663e013c1c44cc4747be52.7z/download" # Direct url to a recovery zip
+  DUMP_URL: "https://master.dl.sourceforge.net/project/fihsw-msm8937/D1C/FIHSW_D1C-5210-0-00WW-B03_600WW_8.0.0_20180101.full.lzma2.a2fdbbe2f9480671eb82aa116346c9c196899a2cfd663e013c1c44cc4747be52.7z?viasf=1" # Direct url to a recovery zip
 
 jobs:
   dump:
